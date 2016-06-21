@@ -1,0 +1,26 @@
+{
+  "name": "text2canvas",
+  "version": "1.0.0",
+  "description": "convert text by .ttf fonts to canvas ",
+  "main": "lib/text2canvas.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remembercode/text2canvas.git"
+  },
+  "keywords": [
+    "text",
+    "convert",
+    "canvas",
+    "image",
+    "png"
+  ],
+  "author": "WangBing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remembercode/text2canvas/issues"
+  },
+  "homepage": "https://github.com/remembercode/text2canvas#readme"
+}
