@@ -1,5 +1,5 @@
 #depences
 text2svg
-#async
-promise async mode
+#promise
+return a promise
 
