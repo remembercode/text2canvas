@@ -17,6 +17,9 @@
     "image",
     "png"
   ],
+  "dependencies": {
+    "text2svg": "^1.0.0"
+  },
   "author": "WangBing",
   "license": "MIT",
   "bugs": {
